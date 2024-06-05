@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Undergraduate @ ie university in Business Administration & Int. Relations<br>👨‍💻 Student @ 4Geeks Academy in Python for Data Science and Machine Learning<br>🌐Fluent in English ,Español, Deutsch (and a little French)<br>✨Passionate about Data Analytics, Web-dev, and Business Strategy<br>
+📚 Undergraduate @ ie university in Business Administration & Int. Relations<br>👨‍💻 Student @ 4Geeks Academy in Python for Data Science and Machine Learning<br>🌐Fluent in English, Español, Deutsch (and a little French)<br>✨Passionate about Data Analytics, Web-dev, and Business Strategy<br>
 
 
 ## 🌐 LinkedIn:
